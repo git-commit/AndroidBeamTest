@@ -1,11 +1,16 @@
 AndroidBeamTest
 ===============
-An Android Beam example project.
-This was created using Android Studio.
+An Android Beam example project using NFC to send messages. 
+
+Inspired by: [Android Protips: Making Apps Work Like Magic](https://developers.google.com/events/io/sessions/326454327)
+
+
+Available for download on the Google Play Store: [Android Beam Example](https://play.google.com/store/apps/details?id=net.xerael.beam)
+
 
 Licence
 =======
-This project is licenced under GPLv3
+This project is licenced under GPLv3.
 
 Donations
 =========
