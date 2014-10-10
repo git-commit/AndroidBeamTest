@@ -10,7 +10,7 @@ Available for download on the Google Play Store: [Android Beam Example](https://
 
 Licence
 =======
-This project is licenced under GPLv3.
+This project is licenced under the X11/MIT License (see LICENSE file).
 
 Donations
 =========
